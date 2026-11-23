@@ -1,0 +1,5 @@
+{
+  "name": "parchment-ink-claude-theme",
+  "owner": { "name": "illescasDaniel" },
+  "plugins": [{ "name": "parchment-ink", "source": "./" }]
+}

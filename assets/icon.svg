@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="t d">
+  <title id="t">Parchment &amp; Ink icon</title>
+  <desc id="d">A rounded square split diagonally: warm beige parchment on the upper left, near-black ink on the lower right, with a teal dot on the dividing line.</desc>
+  <defs><clipPath id="c"><rect width="128" height="128" rx="28"/></clipPath></defs>
+  <g clip-path="url(#c)">
+    <rect width="128" height="128" fill="#f4ecd8"/>
+    <polygon points="128,0 128,128 0,128" fill="#0d0c0b"/>
+  </g>
+  <circle cx="64" cy="64" r="14" fill="#17696a"/>
+  <circle cx="64" cy="64" r="14" fill="none" stroke="#f7f4ec" stroke-width="3"/>
+</svg>
